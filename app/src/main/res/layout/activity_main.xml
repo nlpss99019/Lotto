@@ -29,4 +29,4 @@
         android:gravity="center"
         android:textSize="34sp" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
